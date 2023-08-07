@@ -5,7 +5,6 @@ I'm sharing my project here, so you can check it out!
 - 🔭 I’m currently working on web programming
 - 🌱 I’m currently learning react.js angular.js next.js
 - 👯 I’m looking to collaborate on frontend developing
-- 🤔 I’m looking for help with  angular.js next.js
 - 💬 Ask me about anything
 - 📫 How to reach me: hasands13hf@gmail.com
 - ⚡ Fun fact: coding starts when our imagination has no limits
