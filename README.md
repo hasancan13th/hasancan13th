@@ -3,7 +3,7 @@ I'm Hasan Currenty working on web developing. creating new projects to get bette
 I'm sharing my project here, so you can check it out!
 
 - 🔭 I’m currently working on web programming
-- 🌱 I’m currently learning react.js angular.js next.js
+- 🌱 I’m currently learning react.js angular.js 
 - 👯 I’m looking to collaborate on frontend developing
 - 💬 Ask me about anything
 - 📫 How to reach me: hasands13hf@gmail.com
